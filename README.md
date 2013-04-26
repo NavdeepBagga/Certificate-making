@@ -1,4 +1,5 @@
 Certificate Making
+
 This application is used to create certificates. In this Certificate information retrieve from DBMS, which helps to produce certificates in large amount.
 REQUIREMENTS:
 1) odtPHP
@@ -7,10 +8,12 @@ REQUIREMENTS:
 4) phpMyAdmin
 
 INSTALLATION:
+
 Installation steps for using this application are:
 
 
 AUTHORS:
+
 Mentor and Manager
 
 Dr. Hardeep Singh Rai
